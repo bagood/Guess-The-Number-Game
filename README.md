@@ -1,2 +1,13 @@
-A silly program that asks you to guess a random number between 1 and 10.
-But I can guess that your chances are 1 out of 10
+# Guess-The-Quote-Game
+
+Just as you thought guessing a quote isn't enough you create a number guessing game. I guess I like guessing games too much.
+
+This is the first project in which I utilize object-oriented programming in my program.
+
+## Executions
+
+Execute the guessing game
+```
+python3 guessTheNumber.py
+```
+
